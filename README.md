@@ -1,1 +1,4 @@
 # pr1-git-basics
+## Як запустити
+1. Встановіть [Node.js](https://nodejs.org/)
+2. Виконайте команду: `node src/main.js` у вашому терміналі
